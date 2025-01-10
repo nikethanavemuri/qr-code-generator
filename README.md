@@ -18,6 +18,6 @@ The script will generate a QR code and save it as test.png in the project direct
 A QR code will be generated from the URL https://github.com/nikethanavemuri?tab=repositories.
 The generated QR code will be saved as test.png.
 
-Credits:
+## Acknowledgement
 This project was inspired by a tutorial on the Techie Coder YouTube channel. Special thanks to Techie Coder for the idea and guidance.
 Techie Coder: Techie Coder Channel
